@@ -55,11 +55,15 @@ This is a builder's map, not an authoritative review. It was assembled by automa
 
 ## Acknowledgements
 
-Thanks to **James Cowan** of the British Columbia Institute of
-Technology, liaison to [COMREN](https://oceanmapping.ca) (the Canadian
-Ocean Mapping Research and Education Network), which funded travel to
-the [Canadian Hydrographic Conference 2026](https://chc2026.org/en);
-to **[Spicer Bak](https://orcid.org/0000-0001-6586-5409)**, who first
+Thanks to **Shelby Fudge**, Placement Officer at the Marine Institute's
+Office of Career Integrated Learning, Memorial University, the contact
+responsible for the funding that sent me to the [Canadian Hydrographic
+Conference 2026](https://chc2026.org/en); to **James Cowan**, Program
+Coordinator (Geomatics – Surveying & Mapping) at the British Columbia
+Institute of Technology, who connected the pieces, and
+[COMREN](https://oceanmapping.ca) (the Canadian Ocean Mapping Research
+and Education Network) for its part in that travel; to
+**[Spicer Bak](https://orcid.org/0000-0001-6586-5409)**, who first
 got me interested in waves at the surf line; and to **Avery Muñoz** of
 the University of New Hampshire's Center for Coastal and Ocean Mapping
 / NOAA–UNH Joint Hydrographic Center, whose marine
