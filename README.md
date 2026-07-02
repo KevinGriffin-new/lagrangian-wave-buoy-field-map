@@ -59,8 +59,9 @@ Thanks to **James Cowan** of the British Columbia Institute of
 Technology, liaison to [COMREN](https://oceanmapping.ca) (the Canadian
 Ocean Mapping Research and Education Network), which funded travel to
 the [Canadian Hydrographic Conference 2026](https://chc2026.org/en);
-and to **Spicer Bak**, who first got me interested in waves at the
-surf line. Any errors in this map are mine alone.
+and to **[Spicer Bak](https://orcid.org/0000-0001-6586-5409)**, who
+first got me interested in waves at the surf line. Any errors in this
+map are mine alone.
 
 ## Citation & license
 
